@@ -3,3 +3,6 @@
 
 # Ignore Gradle build output directory
 build
+bin
+src/main/resources/kicker.json
+src/main/resources/mszkicker-*.json
